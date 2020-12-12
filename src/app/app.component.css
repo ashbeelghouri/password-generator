@@ -1,4 +1,4 @@
-.form-control {
+/* .form-control {
   position: relative;
   display: block;
   width: 98%;
@@ -82,12 +82,6 @@
   color: white;
 }
 
-/* 
-.section {
-  margin-top: 5px;
-  margin-bottom: 10px;
-} */
-
 .input {
   padding-top: 5px;
 }
@@ -97,20 +91,15 @@ label,
   color: #616161;
   cursor: pointer;
   -webkit-touch-callout: none;
-  /* iOS Safari */
   -webkit-user-select: none;
-  /* Safari */
   -khtml-user-select: none;
-  /* Konqueror HTML */
   -moz-user-select: none;
-  /* Old versions of Firefox */
   -ms-user-select: none;
-  /* Internet Explorer/Edge */
   user-select: none;
-  /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+  
 }
 
 
 .pad-20{
     padding: 20px;
-}
+} */
