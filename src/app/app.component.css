@@ -1,4 +1,4 @@
-/* .form-control {
+.form-control {
   position: relative;
   display: block;
   width: 98%;
@@ -99,19 +99,19 @@ label,
   cursor: pointer;
   -webkit-touch-callout: none;
   /* iOS Safari */
-  /* -webkit-user-select: none; */
+  -webkit-user-select: none;
   /* Safari */
-  /* -khtml-user-select: none; */
+  -khtml-user-select: none;
   /* Konqueror HTML */
-  /* -moz-user-select: none; */
+  -moz-user-select: none;
   /* Old versions of Firefox */
-  /* -ms-user-select: none; */
+  -ms-user-select: none;
   /* Internet Explorer/Edge */
-  /* user-select: none; */
+  user-select: none;
   /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
-/* }
+}
 
 
 .pad-20{
     padding: 20px;
-/* } */
+}
