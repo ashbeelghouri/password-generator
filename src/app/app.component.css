@@ -42,13 +42,12 @@
 }
 
 .card {
-  padding: 20px;
+  padding: 5px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   background-color: #fafafa;
-  margin-top: 20px;
   margin-bottom: 10px;
 }
 
@@ -83,12 +82,6 @@
   color: white;
 }
 
-
-.section {
-  margin-top: 5px;
-  margin-bottom: 10px;
-}
-
 .input {
   padding-top: 5px;
 }
@@ -98,20 +91,15 @@ label,
   color: #616161;
   cursor: pointer;
   -webkit-touch-callout: none;
-  /* iOS Safari */
-  /* -webkit-user-select: none; */
-  /* Safari */
-  /* -khtml-user-select: none; */
-  /* Konqueror HTML */
-  /* -moz-user-select: none; */
-  /* Old versions of Firefox */
-  /* -ms-user-select: none; */
-  /* Internet Explorer/Edge */
-  /* user-select: none; */
-  /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
-/* }
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  
+}
 
 
 .pad-20{
     padding: 20px;
-/* } */
+} */
